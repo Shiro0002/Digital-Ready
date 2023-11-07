@@ -1,1 +1,2 @@
-This is my file 
+Title: Card Game
+Team members: Vivian, Gavin
