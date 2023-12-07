@@ -1,2 +1,7 @@
 Title: Card Game
 Team members: Vivian, Gavin
+
+The clases represents a playing card with a specific value and suit, class variables include predefined card values and suits. Constructor initializes a card with a given value and suit. Class method new_deck creates and shuffles a new deck of cards. 
+String representation (__repr__) provides a visually appealing display of the card. Contains functions and methods for playing the Blackjack game, automatic deck shuffling for each round it hand value calculation considering adjustments for aces.
+Dynamic printing of player and dealer hands with colorful console output, the player's decision-making process for adding cards or stopping. Dealer's automated moves based on a predefined set of rules. Determination of the winner and handling tie scenarios.
+We created a colorama file that would be able to change the colors of the different card suits in our program. The card deck is always getting shuffled so that there is always a random order. Blackjack, also known as 21, is a popular card game where players aim to achieve a hand value as close to 21 as possible without exceeding it. Players are dealt two cards initially and can choose to "hit" to receive additional cards or "stand" to keep their current hand. Aces can be counted as 1 or 11, and face cards have a value of 10. The game involves strategic decision-making and a duel against a dealer, with the goal of outscoring them without going over 21.
